@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SalesTax/.idea/SalesTax.iml" filepath="$PROJECT_DIR$/../SalesTax/.idea/SalesTax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cottonStock/.idea/cottonStock.iml" filepath="$PROJECT_DIR$/../cottonStock/.idea/cottonStock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nms/.idea/nms.iml" filepath="$PROJECT_DIR$/../nms/.idea/nms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spa-medium.iml" filepath="$PROJECT_DIR$/.idea/spa-medium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taxOrdinance/.idea/taxOrdinance.iml" filepath="$PROJECT_DIR$/../taxOrdinance/.idea/taxOrdinance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tpdotcom/.idea/tpdotcom.iml" filepath="$PROJECT_DIR$/../tpdotcom/.idea/tpdotcom.iml" />
+    </modules>
+  </component>
+</project>
